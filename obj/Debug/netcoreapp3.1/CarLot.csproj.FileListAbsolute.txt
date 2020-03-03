@@ -1,0 +1,11 @@
+C:\Users\gilde\workspace\csharp\exercises\CarLot\bin\Debug\netcoreapp3.1\CarLot.exe
+C:\Users\gilde\workspace\csharp\exercises\CarLot\bin\Debug\netcoreapp3.1\CarLot.deps.json
+C:\Users\gilde\workspace\csharp\exercises\CarLot\bin\Debug\netcoreapp3.1\CarLot.runtimeconfig.json
+C:\Users\gilde\workspace\csharp\exercises\CarLot\bin\Debug\netcoreapp3.1\CarLot.runtimeconfig.dev.json
+C:\Users\gilde\workspace\csharp\exercises\CarLot\bin\Debug\netcoreapp3.1\CarLot.dll
+C:\Users\gilde\workspace\csharp\exercises\CarLot\bin\Debug\netcoreapp3.1\CarLot.pdb
+C:\Users\gilde\workspace\csharp\exercises\CarLot\obj\Debug\netcoreapp3.1\CarLot.csprojAssemblyReference.cache
+C:\Users\gilde\workspace\csharp\exercises\CarLot\obj\Debug\netcoreapp3.1\CarLot.AssemblyInfoInputs.cache
+C:\Users\gilde\workspace\csharp\exercises\CarLot\obj\Debug\netcoreapp3.1\CarLot.AssemblyInfo.cs
+C:\Users\gilde\workspace\csharp\exercises\CarLot\obj\Debug\netcoreapp3.1\CarLot.dll
+C:\Users\gilde\workspace\csharp\exercises\CarLot\obj\Debug\netcoreapp3.1\CarLot.pdb
